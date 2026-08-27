@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UMSS Horario</string>
+    <string name="nav_horario">Horario</string>
+    <string name="nav_asignaturas">Asignaturas</string>
+    <string name="nav_agenda">Agenda</string>
+</resources>
